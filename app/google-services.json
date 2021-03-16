@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269808232052",
+    "project_id": "ass2-34ced",
+    "storage_bucket": "ass2-34ced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269808232052:android:f2d7e77476fd22e1675321",
+        "android_client_info": {
+          "package_name": "com.example.ass2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269808232052-vug2uc5918krj67re0snd68he4j6a27t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN58Adl02ib_ZqrT1oIt4It4ajO08SX3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269808232052-vug2uc5918krj67re0snd68he4j6a27t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
